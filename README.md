@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Here is my personal page ➡️ [Xin Yan | Home](https://cakeyan.github.io/).
+- 🏃🏻 I am on my way to a unified AI model.
 - 💬 Python🐍 is my most used language.
 - 🤔 Feel free to contact me if you are interested in me.
 - ⚡ I like 🍰 so much, so my nickname is Cakeyan. 
