@@ -14,6 +14,12 @@
 
 -->
 
+<!--
+
+[![Anurag's GitHub stats](https://github-readme-stats-cakeyan.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 
 <!--
 **Cakeyan/Cakeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
