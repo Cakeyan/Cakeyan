@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://readme-stats-breno.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-cakeyan.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Here is my personal page ➡️ [Xin Yan | Home](https://cakeyan.github.io/).
 - 🏃🏻 I am on my way to a unified AI model.
@@ -15,6 +15,7 @@
 -->
 
 <!--
+[![Anurag's GitHub stats](https://readme-stats-breno.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-cakeyan.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
