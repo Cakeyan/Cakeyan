@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cakeyan)](https://github.com/anuraghazra/github-readme-stats&hide=prs,issues&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cakeyan&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cakeyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cakeyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cakeyan/Cakeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
