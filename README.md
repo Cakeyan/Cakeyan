@@ -4,8 +4,6 @@
 
 - 📫 Here is my personal page ➡️ [Xin Yan | Home](https://cakeyan.github.io/).
 - 🏃🏻 I am on my way to AGI.
-- 💬 Python🐍 is my most used language.
-- 🤔 Feel free to contact me if you are interested in me.
 - ⚡ I like 🍰 so much, so my nickname is Cakeyan. 
 
 <!--
